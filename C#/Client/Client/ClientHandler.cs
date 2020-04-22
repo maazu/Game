@@ -78,19 +78,5 @@ namespace Client
             }
         }
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }
 }
